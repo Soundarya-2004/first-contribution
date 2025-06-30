@@ -106,7 +106,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
   
 - [Akash Gupta](https://github.com/Akash-Gupta-git)
 - [MONISHKA MITTAL] (https://github.com/MONISHKA1607)
-
+-[Soundarya R](https://github.com/Soundarya-2004)
 
 ---
 
